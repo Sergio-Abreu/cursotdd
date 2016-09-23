@@ -1,0 +1,11 @@
+{
+  "require": {
+    "codeception/codeception": "*",
+    "codeception/verify": "*"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "cursoTDD\\": "./src"
+    }
+  }
+}
